@@ -2784,23 +2784,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\germa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portafolio-main\\Portafolio\\Portafolio.csproj",
+      "projectUniqueName": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\PortafolioGerman\\Portafolio\\Portafolio.csproj",
       "projectName": "Portafolio",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portafolio-main\\Portafolio\\Portafolio.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\PROGRAMACION\\CURSOS UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portafolio-main\\Portafolio\\obj\\",
+      "projectPath": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\PortafolioGerman\\Portafolio\\Portafolio.csproj",
+      "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
+      "outputPath": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\PortafolioGerman\\Portafolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\germa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2851,7 +2851,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
